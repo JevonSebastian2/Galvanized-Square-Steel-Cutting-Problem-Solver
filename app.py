@@ -4,7 +4,7 @@ import time
 
 app = Flask(__name__)
 
-# Configure logging
+# Configure loggingggggg
 logging.basicConfig(level=logging.DEBUG)
 
 def rod_cutting_brute_force(prices, costs, n, max_length, cuts):
